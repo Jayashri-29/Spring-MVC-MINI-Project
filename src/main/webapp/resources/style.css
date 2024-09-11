@@ -1,0 +1,80 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.navdiv{
+	margin:20px;
+	padding:10px;
+	 background-color:lightgreen;
+}
+.navdiv ul{
+   list-style-type:none;
+  
+   margin:20px;
+}
+.navdiv ul li{
+	display:inline;
+	padding:10px 23px 10px 23px;
+}
+.navdiv ul li a{
+	text-decoration: none;
+	color:white;
+	font-size: 18px;
+}
+.addemp
+{
+	margin-left:350px;
+	margin-right:350px;
+	background-color:lightblue;
+	padding:50px 90px 50px 90px;
+	border:2px solid black;
+}
+input{
+	width:400px;
+	height:40px;
+}
+select{
+	width:410px;
+	height:40px;
+}
+.viewdept
+{
+    margin-left:350px;
+	margin-right:350px;
+	background-color:lightblue;
+	padding:50px 90px 50px 90px;
+	border:1px solid #8080c0;	
+}
+table{
+	width:100%;
+	background-color: white;
+}
+table,th,td {
+	border:2px solid black;
+	border-collapse:collapse;
+	
+}
+tr th,td{
+	border:2px solid black;
+	height:30px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.regemp{
+	margin-left:350px;
+	margin-right:350px;
+	background-color:lightblue;
+	padding:50px 90px 50px 90px;
+	border:2px solid black;
+}
+.viewemp
+{
+	margin:10px;
+	margin-left:30px;
+	margin-right:30px;
+	padding:20px;
+	background-color:lightblue;
+	border:1px solid #8080c0;	
+}
